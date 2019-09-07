@@ -1,0 +1,386 @@
+***************************
+Command: spotify-this-song
+Search Terms: Baby+Shark
+
+--------------------
+✦ Artist(s): Pinkfong
+✦ Song Name: Baby Shark
+✦ Album Name: Pinkfong Animal Songs
+✦ Preview link: https://p.scdn.co/mp3-preview/7fba543ccc085d6399714adf93517fc467086e2d?cid=dd8654cdaaa4451585e944c9a5999e4c
+--------------------
+***************************
+Command: spotify-this-song
+Search Terms: Baby+Shark
+
+--------------------
+✦ Artist(s): Pinkfong
+✦ Song Name: Baby Shark
+✦ Album Name: Pinkfong Animal Songs
+✦ Preview link: https://p.scdn.co/mp3-preview/7fba543ccc085d6399714adf93517fc467086e2d?cid=dd8654cdaaa4451585e944c9a5999e4c
+--------------------
+***************************
+Command: movie-this
+Search Terms: 
+
+--------------------
+✦ Title: Mr. Nobody
+✦ Year: 2009
+✦ IMDB Rating: 7.8
+✦ Rotten Tomatoes Rating: 66%
+✦ Produced in: Belgium, Germany, Canada, France, USA, UK
+✦ This movie is in English, Mohawk
+✦ Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+✦ Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+--------------------
+***************************
+Command: concert-this
+Search Terms: Lana+Del+Ray
+
+--------------------
+✦ Venue: Northwell Health at Jones Beach Theater
+✦ Location: Wantagh, NY, United States
+✦ Event Date: 09/21/2019
+--------------------
+
+
+--------------------
+✦ Venue: Rogers Arena
+✦ Location: Vancouver, Canada
+✦ Event Date: 09/30/2019
+--------------------
+
+
+--------------------
+✦ Venue: WaMu Theater
+✦ Location: Seattle, WA, United States
+✦ Event Date: 10/02/2019
+--------------------
+
+
+--------------------
+✦ Venue: Moda Center
+✦ Location: Portland, OR, United States
+✦ Event Date: 10/03/2019
+--------------------
+
+
+--------------------
+✦ Venue: Hearst Greek Theatre
+✦ Location: Berkeley, CA, United States
+✦ Event Date: 10/06/2019
+--------------------
+
+
+--------------------
+✦ Venue: Sacramento Memorial Auditorium
+✦ Location: Sacramento, CA, United States
+✦ Event Date: 10/08/2019
+--------------------
+
+
+--------------------
+✦ Venue: Hollywood Bowl
+✦ Location: Los Angeles, CA, United States
+✦ Event Date: 10/10/2019
+--------------------
+
+
+--------------------
+✦ Venue: Cal Coast Credit Union Amphitheater
+✦ Location: San Diego, CA, United States
+✦ Event Date: 10/11/2019
+--------------------
+
+
+--------------------
+✦ Venue: Ziggo Dome
+✦ Location: Amsterdam, Netherlands
+✦ Event Date: 02/21/2020
+--------------------
+
+
+--------------------
+✦ Venue: Accorhotels Arena
+✦ Location: Paris, France
+✦ Event Date: 02/23/2020
+--------------------
+
+
+--------------------
+✦ Venue: The O2
+✦ Location: London, United Kingdom
+✦ Event Date: 02/25/2020
+--------------------
+
+
+--------------------
+✦ Venue: Manchester Arena
+✦ Location: Manchester, United Kingdom
+✦ Event Date: 02/26/2020
+--------------------
+
+
+--------------------
+✦ Venue: SSE Hydro
+✦ Location: Glasgow, United Kingdom
+✦ Event Date: 02/28/2020
+--------------------
+
+
+--------------------
+✦ Venue: Resorts World Arena
+✦ Location: Birmingham, United Kingdom
+✦ Event Date: 02/29/2020
+--------------------
+
+
+--------------------
+✦ Venue: Mercedes-Benz Arena
+✦ Location: Berlin, Germany
+✦ Event Date: 03/02/2020
+--------------------
+
+
+--------------------
+✦ Venue: Lanxess Arena
+✦ Location: Cologne, Germany
+✦ Event Date: 03/03/2020
+--------------------
+***************************
+Command: concert-this
+Search Terms: Lana+Del+Ray
+
+--------------------
+✦ Venue: Northwell Health at Jones Beach Theater
+✦ Location: Wantagh, NY, United States
+✦ Event Date: 09/21/2019
+--------------------
+
+
+--------------------
+✦ Venue: Rogers Arena
+✦ Location: Vancouver, Canada
+✦ Event Date: 09/30/2019
+--------------------
+
+
+--------------------
+✦ Venue: WaMu Theater
+✦ Location: Seattle, WA, United States
+✦ Event Date: 10/02/2019
+--------------------
+
+
+--------------------
+✦ Venue: Moda Center
+✦ Location: Portland, OR, United States
+✦ Event Date: 10/03/2019
+--------------------
+
+
+--------------------
+✦ Venue: Hearst Greek Theatre
+✦ Location: Berkeley, CA, United States
+✦ Event Date: 10/06/2019
+--------------------
+
+
+--------------------
+✦ Venue: Sacramento Memorial Auditorium
+✦ Location: Sacramento, CA, United States
+✦ Event Date: 10/08/2019
+--------------------
+
+
+--------------------
+✦ Venue: Hollywood Bowl
+✦ Location: Los Angeles, CA, United States
+✦ Event Date: 10/10/2019
+--------------------
+
+
+--------------------
+✦ Venue: Cal Coast Credit Union Amphitheater
+✦ Location: San Diego, CA, United States
+✦ Event Date: 10/11/2019
+--------------------
+
+
+--------------------
+✦ Venue: Ziggo Dome
+✦ Location: Amsterdam, Netherlands
+✦ Event Date: 02/21/2020
+--------------------
+
+
+--------------------
+✦ Venue: Accorhotels Arena
+✦ Location: Paris, France
+✦ Event Date: 02/23/2020
+--------------------
+
+
+--------------------
+✦ Venue: The O2
+✦ Location: London, United Kingdom
+✦ Event Date: 02/25/2020
+--------------------
+
+
+--------------------
+✦ Venue: Manchester Arena
+✦ Location: Manchester, United Kingdom
+✦ Event Date: 02/26/2020
+--------------------
+
+
+--------------------
+✦ Venue: SSE Hydro
+✦ Location: Glasgow, United Kingdom
+✦ Event Date: 02/28/2020
+--------------------
+
+
+--------------------
+✦ Venue: Resorts World Arena
+✦ Location: Birmingham, United Kingdom
+✦ Event Date: 02/29/2020
+--------------------
+
+
+--------------------
+✦ Venue: Mercedes-Benz Arena
+✦ Location: Berlin, Germany
+✦ Event Date: 03/02/2020
+--------------------
+
+
+--------------------
+✦ Venue: Lanxess Arena
+✦ Location: Cologne, Germany
+✦ Event Date: 03/03/2020
+--------------------
+***************************
+Command: concert-this
+Search Terms: Lana+Del+Ray
+
+--------------------
+✦ Venue: Northwell Health at Jones Beach Theater
+✦ Location: Wantagh, NY, United States
+✦ Event Date: 09/21/2019
+--------------------
+
+
+--------------------
+✦ Venue: Rogers Arena
+✦ Location: Vancouver, Canada
+✦ Event Date: 09/30/2019
+--------------------
+
+
+--------------------
+✦ Venue: WaMu Theater
+✦ Location: Seattle, WA, United States
+✦ Event Date: 10/02/2019
+--------------------
+
+
+--------------------
+✦ Venue: Moda Center
+✦ Location: Portland, OR, United States
+✦ Event Date: 10/03/2019
+--------------------
+
+
+--------------------
+✦ Venue: Hearst Greek Theatre
+✦ Location: Berkeley, CA, United States
+✦ Event Date: 10/06/2019
+--------------------
+
+
+--------------------
+✦ Venue: Sacramento Memorial Auditorium
+✦ Location: Sacramento, CA, United States
+✦ Event Date: 10/08/2019
+--------------------
+
+
+--------------------
+✦ Venue: Hollywood Bowl
+✦ Location: Los Angeles, CA, United States
+✦ Event Date: 10/10/2019
+--------------------
+
+
+--------------------
+✦ Venue: Cal Coast Credit Union Amphitheater
+✦ Location: San Diego, CA, United States
+✦ Event Date: 10/11/2019
+--------------------
+
+
+--------------------
+✦ Venue: Ziggo Dome
+✦ Location: Amsterdam, Netherlands
+✦ Event Date: 02/21/2020
+--------------------
+
+
+--------------------
+✦ Venue: Accorhotels Arena
+✦ Location: Paris, France
+✦ Event Date: 02/23/2020
+--------------------
+
+
+--------------------
+✦ Venue: The O2
+✦ Location: London, United Kingdom
+✦ Event Date: 02/25/2020
+--------------------
+
+
+--------------------
+✦ Venue: Manchester Arena
+✦ Location: Manchester, United Kingdom
+✦ Event Date: 02/26/2020
+--------------------
+
+
+--------------------
+✦ Venue: SSE Hydro
+✦ Location: Glasgow, United Kingdom
+✦ Event Date: 02/28/2020
+--------------------
+
+
+--------------------
+✦ Venue: Resorts World Arena
+✦ Location: Birmingham, United Kingdom
+✦ Event Date: 02/29/2020
+--------------------
+
+
+--------------------
+✦ Venue: Mercedes-Benz Arena
+✦ Location: Berlin, Germany
+✦ Event Date: 03/02/2020
+--------------------
+
+
+--------------------
+✦ Venue: Lanxess Arena
+✦ Location: Cologne, Germany
+✦ Event Date: 03/03/2020
+--------------------
+***************************
+Command: spotify-this-song
+Search Terms: Baby+Shark
+
+--------------------
+✦ Artist(s): Pinkfong
+✦ Song Name: Baby Shark
+✦ Album Name: Pinkfong Animal Songs
+✦ Preview link: https://p.scdn.co/mp3-preview/7fba543ccc085d6399714adf93517fc467086e2d?cid=dd8654cdaaa4451585e944c9a5999e4c
+--------------------
