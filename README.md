@@ -3,6 +3,7 @@ Homework #10 - Bands in Town, Spotify, and OMDB API - command line interface
 
 # Resources
 GitHub Repo - https://github.com/woodwindscott/liri-node-app
+
 Video Link - Full Demo: https://drive.google.com/file/d/1PyX3_lHchnsrU3eMXDfi0bFC8LPkGrNV/view
 
 # User Instructions
