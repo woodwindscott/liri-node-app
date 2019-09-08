@@ -384,3 +384,254 @@ Search Terms: Baby+Shark
 ✦ Album Name: Pinkfong Animal Songs
 ✦ Preview link: https://p.scdn.co/mp3-preview/7fba543ccc085d6399714adf93517fc467086e2d?cid=dd8654cdaaa4451585e944c9a5999e4c
 --------------------
+***************************
+Command: spotify-this-song
+Search Terms: Baby+Shark
+
+--------------------
+✦ Artist(s): Pinkfong
+✦ Song Name: Baby Shark
+✦ Album Name: Pinkfong Animal Songs
+✦ Preview link: https://p.scdn.co/mp3-preview/7fba543ccc085d6399714adf93517fc467086e2d?cid=dd8654cdaaa4451585e944c9a5999e4c
+--------------------
+***************************
+Command: spotify-this-song
+Search Terms: fight+song
+
+--------------------
+✦ Artist(s): Rachel Platten
+✦ Song Name: Fight Song
+✦ Album Name: Wildfire
+✦ Preview link: https://p.scdn.co/mp3-preview/e637c2d18133fe780d89df9e603028661a19c818?cid=dd8654cdaaa4451585e944c9a5999e4c
+--------------------
+***************************
+Command: spotify-this-song
+Search Terms: joshua+fit+the+battle+of+jericho
+
+--------------------
+✦ Artist(s): Vocal Spectrum
+✦ Song Name: Joshua Fit the Battle of Jericho
+✦ Album Name: Vocal Spectrum
+✦ Preview link: https://p.scdn.co/mp3-preview/45d1460393a76465e6597d0e10edd3cbdfb4e579?cid=dd8654cdaaa4451585e944c9a5999e4c
+--------------------
+***************************
+Command: spotify-this-song
+Search Terms: Baby+Shark
+
+--------------------
+✦ Artist(s): Pinkfong
+✦ Song Name: Baby Shark
+✦ Album Name: Pinkfong Animal Songs
+✦ Preview link: https://p.scdn.co/mp3-preview/7fba543ccc085d6399714adf93517fc467086e2d?cid=dd8654cdaaa4451585e944c9a5999e4c
+--------------------
+***************************
+Command: spotify-this-song
+Search Terms: fight+song
+
+--------------------
+✦ Artist(s): Rachel Platten
+✦ Song Name: Fight Song
+✦ Album Name: Wildfire
+✦ Preview link: https://p.scdn.co/mp3-preview/e637c2d18133fe780d89df9e603028661a19c818?cid=dd8654cdaaa4451585e944c9a5999e4c
+--------------------
+***************************
+Command: spotify-this-song
+Search Terms: roxanne
+
+--------------------
+✦ Artist(s): The Police
+✦ Song Name: Roxanne
+✦ Album Name: Outlandos D'Amour (Remastered 2003)
+✦ Preview link: ** Preview Unavailable **
+✦ Try this link to the album instead: https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo
+--------------------
+***************************
+Command: spotify-this-song
+Search Terms: yesterday
+
+--------------------
+✦ Artist(s): The Beatles
+✦ Song Name: Yesterday - Remastered 2009
+✦ Album Name: Help! (Remastered)
+✦ Preview link: ** Preview Unavailable **
+✦ Try this link to the album instead: https://open.spotify.com/track/3BQHpFgAp4l80e1XslIjNI
+--------------------
+***************************
+Command: spotify-this-song
+Search Terms: i+lava+you
+
+--------------------
+✦ Artist(s): Brandon Austin
+✦ Song Name: I Lava You
+✦ Album Name: I Lava You
+✦ Preview link: https://p.scdn.co/mp3-preview/ac2d6a12e445d368d43df83e0fe7e2683bdb8803?cid=dd8654cdaaa4451585e944c9a5999e4c
+--------------------
+***************************
+Command: spotify-this-song
+Search Terms: superman
+
+--------------------
+✦ Artist(s): Eminem, Dina Rae
+✦ Song Name: Superman
+✦ Album Name: The Eminem Show
+✦ Preview link: ** Preview Unavailable **
+✦ Try this link to the album instead: https://open.spotify.com/track/4woTEX1wYOTGDqNXuavlRC
+--------------------
+***************************
+Command: spotify-this-song
+Search Terms: star+wars
+
+--------------------
+✦ Artist(s): John Williams, Anne-Sophie Mutter, The Recording Arts Orchestra of Los Angeles
+✦ Song Name: Rey's Theme - From "Star Wars: The Force Awakens"
+✦ Album Name: Across The Stars
+✦ Preview link: ** Preview Unavailable **
+✦ Try this link to the album instead: https://open.spotify.com/track/7fGsv7H7mYrJkNsCyGK4Lk
+--------------------
+***************************
+Command: spotify-this-song
+Search Terms: eva+cassidy
+
+--------------------
+✦ Artist(s): Eva Cassidy
+✦ Song Name: Fields Of Gold
+✦ Album Name: Songbird
+✦ Preview link: https://p.scdn.co/mp3-preview/9fbb47e6b3cc1b521bcaa81a14e1df8edf5b2dbe?cid=dd8654cdaaa4451585e944c9a5999e4c
+--------------------
+***************************
+Command: movie-this
+Search Terms: the+matrix
+
+--------------------
+✦ Title: The Matrix
+✦ Year: 1999
+✦ IMDB Rating: 8.7
+✦ Rotten Tomatoes Rating: 88%
+✦ Produced in: USA
+✦ This movie is in English
+✦ Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+✦ Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+--------------------
+***************************
+Command: movie-this
+Search Terms: seven+pounds
+
+--------------------
+✦ Title: Seven Pounds
+✦ Year: 2008
+✦ IMDB Rating: 7.6
+✦ Rotten Tomatoes Rating: 26%
+✦ Produced in: USA
+✦ This movie is in English, Spanish
+✦ Plot: A man with a fateful secret embarks on an extraordinary journey of redemption by forever changing the lives of seven strangers.
+✦ Actors: Will Smith, Rosario Dawson, Woody Harrelson, Michael Ealy
+--------------------
+***************************
+Command: movie-this
+Search Terms: Mary+Poppins
+
+--------------------
+✦ Title: Mary Poppins
+✦ Year: 1964
+✦ IMDB Rating: 7.8
+✦ Rotten Tomatoes Rating: 100%
+✦ Produced in: USA
+✦ This movie is in English
+✦ Plot: In turn of the century London, a magical nanny employs music and adventure to help two neglected children become closer to their father.
+✦ Actors: Julie Andrews, Dick Van Dyke, David Tomlinson, Glynis Johns
+--------------------
+***************************
+Command: movie-this
+Search Terms: Clueless
+
+--------------------
+✦ Title: Clueless
+✦ Year: 1995
+✦ IMDB Rating: 6.8
+✦ Rotten Tomatoes Rating: 68/100
+✦ Produced in: USA
+✦ This movie is in English, Spanish
+✦ Plot: A rich high school student tries to boost a new pupil's popularity, but reckons without affairs of the heart getting in the way.
+✦ Actors: Alicia Silverstone, Stacey Dash, Brittany Murphy, Paul Rudd
+--------------------
+***************************
+Command: movie-this
+Search Terms: mr+nobody
+
+--------------------
+✦ Title: Mr. Nobody
+✦ Year: 2009
+✦ IMDB Rating: 7.8
+✦ Rotten Tomatoes Rating: 66%
+✦ Produced in: Belgium, Germany, Canada, France, USA, UK
+✦ This movie is in English, Mohawk
+✦ Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+✦ Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+--------------------
+***************************
+Command: movie-this
+Search Terms: gremlins
+
+--------------------
+✦ Title: Gremlins
+✦ Year: 1984
+✦ IMDB Rating: 7.2
+✦ Rotten Tomatoes Rating: 84%
+✦ Produced in: USA
+✦ This movie is in English, Spanish
+✦ Plot: A boy inadvertently breaks three important rules concerning his new pet and unleashes a horde of malevolently mischievous monsters on a small town.
+✦ Actors: Hoyt Axton, John Louie, Keye Luke, Don Steele
+--------------------
+***************************
+Command: movie-this
+Search Terms: benjamin+button
+
+--------------------
+✦ Title: The Curious Case of Benjamin Button
+✦ Year: 2008
+✦ IMDB Rating: 7.8
+✦ Rotten Tomatoes Rating: 71%
+✦ Produced in: USA
+✦ This movie is in English, Russian, French
+✦ Plot: Tells the story of Benjamin Button, a man who starts aging backwards with bizarre consequences.
+✦ Actors: Cate Blanchett, Brad Pitt, Julia Ormond, Faune Chambers Watkins
+--------------------
+***************************
+Command: movie-this
+Search Terms: The+Company+of+Wolves
+
+--------------------
+✦ Title: The Company of Wolves
+✦ Year: 1984
+✦ IMDB Rating: 6.7
+✦ Rotten Tomatoes Rating: 79%
+✦ Produced in: UK
+✦ This movie is in English
+✦ Plot: A teenage girl in a country manor falls asleep while reading a magazine, and has a disturbing dream involving wolves prowling the woods below her bedroom window.
+✦ Actors: Angela Lansbury, David Warner, Graham Crowden, Brian Glover
+--------------------
+***************************
+Command: movie-this
+Search Terms: saved+by+the+bell
+
+--------------------
+✦ Title: Saved by the Bell
+✦ Year: 1989–1992
+✦ IMDB Rating: 7.0
+✦ Rotten Tomatoes Rating: unknown
+✦ Produced in: USA
+✦ This movie is in English
+✦ Plot: A close knit group of six friends try to make it through their teens while attending Bayside High School in Palisades, California.
+✦ Actors: Mark-Paul Gosselaar, Mario Lopez, Dustin Diamond, Lark Voorhies
+--------------------
+***************************
+Command: spotify-this-song
+Search Terms: bang+bang
+
+--------------------
+✦ Artist(s): Jessie J, Ariana Grande, Nicki Minaj
+✦ Song Name: Bang Bang
+✦ Album Name: Sweet Talker (Deluxe Version)
+✦ Preview link: ** Preview Unavailable **
+✦ Try this link to the album instead: https://open.spotify.com/track/0puf9yIluy9W0vpMEUoAnN
+--------------------
