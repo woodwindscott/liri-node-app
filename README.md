@@ -5,7 +5,7 @@ Homework #10 - Bands in Town, Spotify, and OMDB API - command line interface
 GitHub Repo - https://github.com/woodwindscott/liri-node-app
 Video Link - Full Demo: https://drive.google.com/file/d/1PyX3_lHchnsrU3eMXDfi0bFC8LPkGrNV/view
 
-### User Instructions
+# User Instructions
 ## What to enter in the command line
 
 1. `node liri.js concert-this <artist/band name here>`
@@ -51,7 +51,7 @@ Video Link - Full Demo: https://drive.google.com/file/d/1PyX3_lHchnsrU3eMXDfi0bF
 
 *******************************************************
 
-### Notes about the development process
+# Notes about the development process
 
 ## Technologies Used
 
@@ -81,6 +81,6 @@ All of the search terms and resulting data are stored in log.txt.
 
 4. The concert search was tricky as well, because it provides a large number of results if the artist is actively touring.  I ultimately decided to display all of the results and worked to format it so it was readable in the terminal.
 
-## Future Development
+# Future Development
 
 While this was a great exercise to get familiar with node.js and working on the back end, it would be great to see this as a web application where users could enter search terms from their browswer.
