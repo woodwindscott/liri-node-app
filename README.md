@@ -1,5 +1,5 @@
 # liri-node-app
-Homework #10 - Bands in Town, Spotify, and OMDB API - command line interface
+Liri Node App - Bands in Town, Spotify, and OMDB API - command line interface
 
 # Resources
 GitHub Repo - https://github.com/woodwindscott/liri-node-app
